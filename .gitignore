@@ -57,3 +57,10 @@ typings/
 # dotenv environment variables file
 .env
 
+
+*.sh
+*.js
+images_src
+*.json
+README2.md
+.DS_STORE
